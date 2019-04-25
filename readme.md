@@ -1,6 +1,6 @@
 
 # Why
-I have always wanted was to make lights dance to music. However, I found it was difficult to make something impressive - anything beyond a simple FFT mapped colors. 
+I have always wanted to make lights dance to music. However, I found it was difficult to make something impressive - anything beyond a simple FFT mapped colors. 
 
 It all started when I found an open source project that provided the required materials and code to process an HDMI signal and light up LEDs on the back of the TV. After buying all the materials, I realized that I might have underestimated the effort required to make it worth it. 
 
